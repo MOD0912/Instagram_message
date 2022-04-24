@@ -9,3 +9,4 @@ If you use chrome, you need to replace every "Firefox" with "chrome"(in vsc pres
 If your laptop or computer is to slow, add more seconds in time.sleep.
 If something doesn't work, try restarting the code. If it still doesn't work try restarting your Editor/IDE.
 If it still doesn't work after restarting your Editor write me.
+In case you use a specific time, make sure the program is always running and if you use am and pm you need to google how to change that.
