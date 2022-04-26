@@ -1,13 +1,29 @@
-#Hi
-In This project I automated sending Instagram messages
-There is also a modul which does the same as my code, but it contains a virus so don't use Instabot.
-If you want to use Firofox you need geckodriver. If you want to use Chrome you need Chromedriver.
-Chromedriver: https://chromedriver.storage.googleapis.com/index.html?path=94.0.4606.41/.
-Geckodriver:  https://github.com/mozilla/geckodriver/releases.
-You need to add ur driver to the environment variable "PATH".
-How to add the driver to "PATH": https://www.youtube.com/watch?v=gb9e3m98avk.
-If you use chrome, you need to replace every "Firefox" with "chrome"(in vsc press ctrl+h).
-If your laptop or computer is to slow, add more seconds in time.sleep.
-If something doesn't work, try restarting the code. If it still doesn't work try restarting your Editor/IDE.
-If it still doesn't work after restarting your Editor write me.
-In case you use a specific time, make sure the program is always running and if you use "am" and "pm" you need to google how to change that.
+# Instagram message
+This project is about automating sending messages on Instagram.
+
+##Installation
+1.  Download driver:
+    * Chrome = Chromedriver: https://chromedriver.storage.googleapis.com/index.html?path=94.0.4606.41/
+    * Firefox = Geckodriver:  https://github.com/mozilla/geckodriver/releases
+    * Only for Chrome users: You need to replace every "Firefox" with "Chrome"(in vsc press ctrl+h) in the code
+
+2.  Add driver to "PATH":
+    * Add driver to the enviroment variable "PATH": https://www.youtube.com/watch?v=gb9e3m98avk
+
+3.  specific time:
+    * To use a specific time delete line 11 and 12
+    * Make sure the proram is always running
+    * If you use "am" and "pm" you need to find out how to change that
+
+
+##Erros
+1.  Program starts fine but doesnt't work in the middle of the program
+    * In case something like that happens to you:
+        - Add more time in time.sleep()
+        - Try restarting the program
+        - restart your Editor/IDE
+        - If it still doesn't work write me
+
+
+##hint
+Don't use the module Instabot. It does the same as my program, but it contains a virus!!!
