@@ -16,7 +16,7 @@ This project is about automating sending messages on Instagram.
     * If you use "am" and "pm" you need to find out how to change that
 
 
-## Erros
+## Error
 1.  Program starts fine but doesnt't work in the middle of the program
     * In case something like that happens to you:
         - Add more time in time.sleep()
@@ -25,5 +25,5 @@ This project is about automating sending messages on Instagram.
         - If it still doesn't work write me
 
 
-## hint
+## Hint
 Don't use the module Instabot. It does the same as my program, but it contains a virus!!!
