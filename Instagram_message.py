@@ -10,8 +10,8 @@ while True:
     if x == "22:03:50":                 # if you want to use a specific time, delete the next two lines and replace 22:03:50 with the time you want 
         pass                                     
     else:                               
-        username = ('Your Username')    # replace it with your Instagram username
-        password = ('Your Password')    # replace it with your Instagram password
+        username = 'Your Username'    # replace it with your Instagram username
+        password = 'Your Password'    # replace it with your Instagram password
         user = "user"                   # replace with the username, to wich you want to send your message
         url = 'https://instagram.com/' + user 
         Firefox = webdriver.Firefox()   # if it doesn't work add executable_path = "path to your driver"
