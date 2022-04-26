@@ -25,10 +25,10 @@ This project is about automating sending messages on Instagram.
 
 ## Error
 In case your program starts perfectly fine, but stops on any point:
-           - Add more time in time.sleep()
-           - Try restarting the program
-           - restart your Editor/IDE
-           - If it still doesn't work write me
+ - Add more time in time.sleep()
+ - Try restarting the program
+ - restart your Editor/IDE
+ - If it still doesn't work write me
 
 
 ## Hint
