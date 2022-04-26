@@ -15,7 +15,7 @@ while True:
         user = "user"                   # replace with the username, to wich you want to send your message
         url = 'https://instagram.com/' + user 
         Firefox = webdriver.Firefox()   # if it doesn't work add executable_path = "path to your driver"
-        Firefox.maximize_window()       # For maximizing window
+        Firefox.maximize_window()       
         Firefox.get(url)
         try:
             bttn = Firefox.find_element(By.CLASS_NAME, 'aOOlW')
