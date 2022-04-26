@@ -5,7 +5,7 @@ This project is about automating sending messages on Instagram.
 
 ## Installation(Windows)
 
-1.  open up a terminal and copy paste this in:
+1.  open up a terminal and paste this in:
  ```
  pip install selenium
  ```
