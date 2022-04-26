@@ -5,7 +5,7 @@ Chromedriver: https://chromedriver.storage.googleapis.com/index.html?path=94.0.4
 Geckodriver:  https://github.com/mozilla/geckodriver/releases.
 You need to add ur driver to the environment variable "PATH".
 How to add the driver to "PATH": https://www.youtube.com/watch?v=gb9e3m98avk.
-If you use chrome, you need to replace every "Firefox" with "chrome"(in vsc press strg+h).
+If you use chrome, you need to replace every "Firefox" with "chrome"(in vsc press ctrl+h).
 If your laptop or computer is to slow, add more seconds in time.sleep.
 If something doesn't work, try restarting the code. If it still doesn't work try restarting your Editor/IDE.
 If it still doesn't work after restarting your Editor write me.
