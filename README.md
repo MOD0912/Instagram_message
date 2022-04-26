@@ -33,5 +33,4 @@ In case your program starts perfectly fine, but stops on any point:
 
 ## Hint
 Don't use the module Instabot. It does the same as my program, but it contains a virus!!!
-## On what does it run?
 I tested it for Windows 10 with Python 10.0 and Firefox. I'm pretty sure it does also work with chrome, but I'm not sure if it works for Linux. 
