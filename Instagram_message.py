@@ -53,3 +53,4 @@ while True:
         mbox.send_keys(l)
         mbox.send_keys(Keys.RETURN)
         Firefox.close()
+        break
